@@ -932,3 +932,9 @@
 .socicon-zynga:before {
   content: "\e0a9";
 }
+
+
+.nav-dropdown {
+  display: flex !important;
+  justify-content: flex-end !important;
+}
