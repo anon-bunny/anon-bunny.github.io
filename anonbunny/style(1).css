@@ -861,7 +861,7 @@ form .btn {
   background-color: #000;
   bottom: 0;
   left: 0;
-  opacity: 0.5;
+  /* opacity: 0.5; */
   position: absolute;
   right: 0;
   top: 0;
@@ -955,9 +955,4 @@ blockquote {
     width: 300% !important;
     left: -100% !important;
   }
-}
-
-.nav-dropdown {
-  display: flex !important;
-  justify-content: flex-end !important;
 }
